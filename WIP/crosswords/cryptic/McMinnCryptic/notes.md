@@ -26,7 +26,7 @@ noted as such; for instance someone's full name and their nickname.
 * HANNAH
 * ALEY
 * FAIRY
-* ANGEL
+* (GUARDIAN) ANGEL(S)
 * ARCHIVES (OF TRUTH) (?)
 * BLADE OF GRASS
 * CHOSEN ONE
@@ -54,13 +54,14 @@ noted as such; for instance someone's full name and their nickname.
 * FIERY GREATSWORD
 * FLOWER (?)
 * NATURE'S GIFT
-* GOBLIN
+* GOBLIN(S)
+* GOBLINKIND
 * GROG
 * HALLOW (?)
 * HAMMUSH
 * HEARTPOON
 * HEAVEN
-* INA
+* INA (NORDSKOV)
 * SKELERINA
 * (CAPTAIN) NORDSKOV
 * JONAS
@@ -89,26 +90,39 @@ noted as such; for instance someone's full name and their nickname.
 * DUNGEON
 * GOSSAMER (SWORD)
 * PEARLY GATES (PUB)
-* (UNDEAD) VIKING
+* (UNDEAD) VIKING(S)
 * WALL OF FLESH (?)
 * SHAMPOO
 * XANE
 * XYLAN
 * XYVARETH
+* XYGVANE
 * ZOMBIE
 * (BOWL OF) TWO GOLDFISH
 * KEG
+* ALE
 * MILKY WAY (?)
 * FINGER GUNS
 * WATER (?)
+* AQUAPHOBIA
 * CLAPPING (?, would need fairy revival clue)
 * TOM COLLINS (?, June's drink of choice)
 * WIZARD
 * PAJAMAS
 * ROBE (only either pajamas or robe, using the other as part of the clue)
+* OLIGOPOLY
+* CURSE(D)
+* SHIP
+* JUNK
+* SAIL(ING)
+* RABBIT (STORM)
+* (SAND) SHARK HANDS
+* (THE) MANIAC
+* FIANCEE
+* WRENCH(INATOR)
 
 </details>
-<details><summary>Greencloak Wanderer</summary>
+<details><summary>The Greencloak Wanderer</summary>
 
 * FENT
 * FENTISH
@@ -169,10 +183,9 @@ noted as such; for instance someone's full name and their nickname.
 * (KING) AZANAN
 * TREE
 * FOREST
-* HAPI
 
 </details>
-<details><summary>Mero</summary>
+<details><summary>Mero and the City of Ghosts</summary>
 
 * MERO
 * RUYA
@@ -190,10 +203,12 @@ noted as such; for instance someone's full name and their nickname.
 * GIANT(S)
 * SANJA (AL-SAT)
 * JUNKLANDER(S)
+* JUNKLANDER CITY
 * LIA
 * BAKI
 * BOZ
 * UNA
+* TOKO
 * MOSIN
 * BARKAR
 * JAFFAR
@@ -201,6 +216,8 @@ noted as such; for instance someone's full name and their nickname.
 * HACHI
 * KANWO
 * FAFAN
+* AROCHI
+* WARRU
 * DESERT
 * GRASSLANDS
 * SWORD
@@ -222,9 +239,24 @@ noted as such; for instance someone's full name and their nickname.
 * STONE
 * (FISH)HOOK
 * BEETLE(S)
+* HAPI
 * CITY (OF GHOSTS)
 * GANJUR
 * RIBBON
+* SCARS
+* SILVER BIRD(S)
+* EYE(S)
+* STRETCHING
+* TREASURE
+* GOLD MAN
+* IDOL
+* POURED STONE
+* ALARM
+* KLAXON
+* MALL
+* TOWER(S)
+* FOUNTAIN TOWER
+* SKYSCRAPER(S)
 
 </details>
 <details><summary>Sludge-Swimmer</summary>
