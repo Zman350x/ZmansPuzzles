@@ -39,7 +39,7 @@ noted as such; for instance someone's full name and their nickname.
 * (DESERT) PYTHON
 * DIRT ROD
 * DJINN
-* DOKTOR VON VIMPLEGÜRGER
+* DOCTOR VON VIMPLEGÜRGER
 * GUS
 * DRYAD
 * (DRYAD) ELDERS
@@ -64,9 +64,9 @@ noted as such; for instance someone's full name and their nickname.
 * INA (NORDSKOV)
 * SKELERINA
 * (CAPTAIN) NORDSKOV
-* JONAS
+* J.O.N.A.S.
 * JUNE THE DESTROYER
-* HELLBOAT (?, potentially fan name)
+* HELLBOAT
 * JUNGLE (?)
 * LIGHT'S BANE
 * LIHZAHRD
@@ -120,6 +120,16 @@ noted as such; for instance someone's full name and their nickname.
 * (THE) MANIAC
 * FIANCEE
 * WRENCH(INATOR)
+* OUTCAST BUDDIES
+* I-SPY
+* GOBLINTOWN
+* DEMON'S SEAL
+* CYBERCOMPUTER
+* DEUTERIUM (GENERATOR)
+* ABDUL
+* PYRAMID
+* (COMMANDER) QUOLLUD
+* (ENGINEER) SU'QUORIA
 
 </details>
 <details><summary>The Greencloak Wanderer</summary>
@@ -257,6 +267,47 @@ noted as such; for instance someone's full name and their nickname.
 * TOWER(S)
 * FOUNTAIN TOWER
 * SKYSCRAPER(S)
+
+</details>
+<details><summary>SAMI</summary>
+
+* JULIANA
+* SAMI
+* NAUTILUS
+* AVENIR
+* OMNIDECK
+* SERV-O(S)
+* SEA SIREN
+* EVA
+* (AIR) FILTER
+
+</details>
+<details><summary>The Tea Man</summary>
+
+* (MOUNTAINS OF) HEAVEN
+* (FIVE) PEAKS OF HEAVEN
+* PILLARS OF HEAVEN
+* KABI
+* TEA (MAN)
+* SEYO
+* HAZRATPUR
+* GALLUMAGRIK
+* NESHTANA
+* DRAGON
+* (STONE) (TEMPLE OF) ISHITOU
+* WARRIOR
+* DOMO
+* (EMPEROR) (JANGO(-HAN))
+* LOTUS
+* PLAGUE
+* TIEGGDADDAUN
+* ALSOZ (THE GREAT)
+* ALATREEL
+* LADY OF THE SNOWS
+* TRUNK
+* MUSHROOM
+* POEM
+* TEMPLE
 
 </details>
 <details><summary>Sludge-Swimmer</summary>
