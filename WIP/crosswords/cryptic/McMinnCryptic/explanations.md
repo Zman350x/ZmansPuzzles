@@ -25,6 +25,13 @@ EMPEROR (King) + JANGO-HAN ("JOHANN GA" anagrammed). Definition "an eternal
 statue" from The Tea Man, as the emperor becomes a stone who exists outside the
 flow of time.
 
+### 29 ACROSS - FIDDLE
+Tinker inverted internal windshield diffraction (6)
+
+Reversed hidden word (inverted internal) "windshi**ELD DIF**fraction".
+Definition "Tinker" sort of applies to Gus from Legend of Maxx, although that's
+technically "tinkerer".
+
 ### 30 ACROSS - WYVERN
 Warlord, mad with envy, captures rook (6)
 
