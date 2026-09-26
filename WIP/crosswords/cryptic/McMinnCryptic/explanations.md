@@ -6,12 +6,30 @@ Cruel old man ignores ringing bell while mending a stitch (7)
 MENDING - DING (ringing bell ignored while mending) + A + HEM (stitch) =
 MENAHEM. Definition "cruel old man" from Mero and the City of Ghosts.
 
+### 11 ACROSS - DERIAHM
+Half-demons gather hair, head over heels for a boy (7)
+
+DEM (half-demons) contains (gather) RIAH (hair reversed) gives DERIAHM, a boy
+(well, young man) from the Tower series.
+
+### 19 ACROSS - PUPIL
+Scholar's student is one that admits brilliance? (5)
+
+Double definition of "scholar's student" and "admits brilliance" (lets light
+through). The Scholar is the mentor in Mero and the City of Ghosts.
+
 ### 20 ACROSS - EMPEROR JANGO-HAN
 King Johann Ga beat up an eternal statue (7,5-3)
 
 EMPEROR (King) + JANGO-HAN ("JOHANN GA" anagrammed). Definition "an eternal
 statue" from The Tea Man, as the emperor becomes a stone who exists outside the
 flow of time.
+
+### 30 ACROSS - WYVERN
+Warlord, mad with envy, captures rook (6)
+
+W ENVY anagrammed (mad) to WYVEN, captures R for WYVERN, a warlord from the
+Tower series.
 
 ## Down
 ### 1 DOWN - SAMI
