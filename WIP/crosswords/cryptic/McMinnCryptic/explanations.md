@@ -1,5 +1,18 @@
 # McMinn Cryptic - Solution and Clue Explanations
 ## Across
+### 10 ACROSS - MENAHEM
+Cruel old man ignores ringing bell while mending a stitch (7)
+
+MENDING - DING (ringing bell ignored while mending) + A + HEM (stitch) =
+MENAHEM. Definition "cruel old man" from Mero and the City of Ghosts.
+
+### 20 ACROSS - EMPEROR JANGO-HAN
+King Johann Ga beat up an eternal statue (7,5-3)
+
+EMPEROR (King) + JANGO-HAN ("JOHANN GA" anagrammed). Definition "an eternal
+statue" from The Tea Man, as the emperor becomes a stone who exists outside the
+flow of time.
+
 ## Down
 ### 1 DOWN - SAMI
 Assistant has French friends, but Sweden's at the top (4)
