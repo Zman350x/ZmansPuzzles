@@ -12,6 +12,13 @@ Half-demons gather hair, head over heels for a boy (7)
 DEM (half-demons) contains (gather) RIAH (hair reversed) gives DERIAHM, a boy
 (well, young man) from the Tower series.
 
+### 13 ACROSS - LED TO
+Brought the essence of Kyle's coveted soundtrack along (3,2)
+
+Middle letters of (essence of) "Ky**L**e's cov**E**ted soun**DT**rack al**O**ng"
+gives LED TO, defined by "Brought." Kyle is the main character of the Tower
+series.
+
 ### 19 ACROSS - PUPIL
 Scholar's student is one that admits brilliance? (5)
 
