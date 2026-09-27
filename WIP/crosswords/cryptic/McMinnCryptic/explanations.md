@@ -1,5 +1,17 @@
 # McMinn Cryptic - Solution and Clue Explanations
 ## Across
+### 1 ACROSS - SOPHIA
+Adorable serial killer's crazed phobias frighten off Bishop (6)
+
+SOPHIAB (anagrammed PHOBIAS, "crazed" anagrind) removing (frightening off) B
+(Bishop). Definition of "Adorable serial killer" for Sophia comes from Legend of
+Maxx.
+
+### 4 ACROSS - MERCHANT
+Vendor's swag bug (8)
+
+MERCH (swag) + ANT (bug) gives MERCHANT, a character from Legend of Maxx.
+
 ### 10 ACROSS - MENAHEM
 Cruel old man ignores ringing bell while mending a stitch (7)
 
@@ -19,6 +31,9 @@ Middle letters of (essence of) "Ky**L**e's cov**E**ted soun**DT**rack al**O**ng"
 gives LED TO, defined by "Brought." Kyle is the main character of the Tower
 series.
 
+### 16 ACROSS - REMATCHES
+do-overs
+
 ### 19 ACROSS - PUPIL
 Scholar's student is one that admits brilliance? (5)
 
@@ -31,6 +46,18 @@ King Johann Ga beat up an eternal statue (7,5-3)
 EMPEROR (King) + JANGO-HAN ("JOHANN GA" anagrammed). Definition "an eternal
 statue" from The Tea Man, as the emperor becomes a stone who exists outside the
 flow of time.
+
+### 26 ACROSS - KEELING
+Crumpling eel ensnared by Queen's man (7)
+
+KING (Queen's man) around EEL gives KEELING, definition of "Crumpling". Queen
+from The Greencloak Wanderer.
+
+### 27 ACROSS - EFFABLE
+First part of Elder Fungus's origin story can be told (7)
+
+E (First part of "Elder") + F (Fungus's origin) + FABLE (story) gives EFFABLE.
+Definition "can be told". Elder Fungus from Legend of Maxx.
 
 ### 29 ACROSS - FIDDLE
 Tinker inverted internal windshield diffraction (6)
@@ -147,7 +174,7 @@ Technically a definition by example, hence the "?"
 Bill starts to leave early for bed (5)
 
 TAB (substitution for bill, like at a bar) + L E (acrostic of Leave Early).
-Definition of "bed" comes from the Legion of Maxx.
+Definition of "bed" comes from the Legend of Maxx.
 
 ### 25 DOWN - AEIN
 Thousands elude ageing girl (4)
