@@ -32,7 +32,11 @@ gives LED TO, defined by "Brought." Kyle is the main character of the Tower
 series.
 
 ### 16 ACROSS - REMATCHES
-do-overs
+First of all, really edgy Maxx, at times, cackles haunting echoing screams,
+resulting in do-overs (9)
+
+First letters (First of all) of "**R**eally ... **S**creams" gives REMATCHES,
+defined as "do-overs". Uses Maxx from Legend of Maxx.
 
 ### 19 ACROSS - PUPIL
 Scholar's student is one that admits brilliance? (5)
