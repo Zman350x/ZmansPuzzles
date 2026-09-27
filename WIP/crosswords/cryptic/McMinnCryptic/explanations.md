@@ -38,11 +38,10 @@ gives LED TO, defined by "Brought." Kyle is the main character of the Tower
 series.
 
 ### 16 ACROSS - REMATCHES
-First of all, really edgy Maxx, at times, cackles haunting echoing screams,
-resulting in do-overs (9)
+Amalgam of tachometers forgot to result in do-overs (9)
 
-First letters (First of all) of "**R**eally ... **S**creams" gives REMATCHES,
-defined as "do-overs". Uses Maxx from Legend of Maxx.
+TACHOMETERS - TO (forgot) anagrammed (anagrind "amalgam of") gives "do-overs".
+Amalgams from underground labyrinth in Mero and the City of ghosts.
 
 ### 19 ACROSS - PUPIL
 Scholar's student is one that admits brilliance? (5)
