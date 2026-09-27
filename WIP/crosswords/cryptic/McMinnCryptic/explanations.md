@@ -24,6 +24,12 @@ Half-demons gather hair, head over heels for a boy (7)
 DEM (half-demons) contains (gather) RIAH (hair reversed) gives DERIAHM, a boy
 (well, young man) from the Tower series.
 
+### 12 ACROSS - SYMBIONT
+Parasite destroyed by Simon T (8)
+
+SIMON T anagrammed (destroyed) gives SYMBIONT, defined as parasite as the one in
+Sludge-Swimmer is a parasite.
+
 ### 13 ACROSS - LED TO
 Brought the essence of Kyle's coveted soundtrack along (3,2)
 
@@ -50,6 +56,21 @@ King Johann Ga beat up an eternal statue (7,5-3)
 EMPEROR (King) + JANGO-HAN ("JOHANN GA" anagrammed). Definition "an eternal
 statue" from The Tea Man, as the emperor becomes a stone who exists outside the
 flow of time.
+
+### 21 ACROSS - OCEAN
+Region of tuna ecosystem to the east! (5)
+
+&lit, OCEAN is a part of the tuna ecosystem (they live in multiple oceans and
+also seas and things). But also it's a "region to the east" (reversed hidden
+word) with "tu**NA ECO**system". "To the east" as part of the definition comes
+from Legend of Maxx where a plot point is trying to reach and cross the eastern
+ocean, so they always discuss the ocean as something "to the east".
+
+### 23 ACROSS - ALIENATE
+Lihzahrd spills tea to antagonize? (8)
+
+ALIEN (Lihzahrd) + ATE ("TEA" anagrammed, "spills" anagrind) gives ALIENATE.
+"Antagonize" feels like a bit of a stretch definition, hence the "?"
 
 ### 26 ACROSS - KEELING
 Crumpling eel ensnared by Queen's man (7)
@@ -90,7 +111,7 @@ N (Newton) inserted into PUNY (wimpy substitution) as a way to describe Maxx,
 who often speaks in puns.
 
 ### 3 DOWN - INHIBITOR
-Some idiots now have irrecoverable bopyrid infection that orchestrates real
+Some idiots now have irrecoverable bopyrid infections that orchestrate real
 hindrance (9)
 
 First letters (some) of "**I**diots ... **R**eal" gives INHIBITOR meaning
